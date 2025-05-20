@@ -1,4 +1,3 @@
-# CLEARPASSS
-PASOS:
+# protocolos
 
 
